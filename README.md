@@ -50,18 +50,13 @@ Armazena os principais eventos e métricas, conectando as tabelas dimensão.
 
 ## 📊 Modelo Conceitual
 
-O modelo **Star Schema** está representado no arquivo **[Star_Professor.pdf](./Star_Professor.pdf)** disponível neste repositório.
+O modelo **Star Schema** está representado no arquivo **[Star_Professor.pdf](https://github.com/Rodrigo-Antonio-Silva/Star-Schema/blob/main/Star_Professor.pdf)** disponível neste repositório.
 
 ---
 
 ## 📂 Arquivos do Repositório
 - **`Star_Professor.pdf`** - Modelo em PDF com o diagrama do Star Schema
 - **`README.md`** - Documentação do projeto
-
----
-
-## 📌 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
 
 📬 Caso tenha dúvidas ou sugestões, entre em contato!
 
