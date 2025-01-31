@@ -3,8 +3,6 @@
 ## Descrição do Projeto
 Este repositório contém a modelagem dimensional do **Star Schema** focado na análise dos **dados dos professores**. O objetivo é organizar e estruturar os dados de forma eficiente para facilitar consultas analíticas e relatórios gerenciais.
 
-O modelo foi implementado em **MySQL** e pode ser utilizado para visualização e análise no **Power BI** ou outras ferramentas de BI.
-
 ---
 
 ## 📌 Estrutura do Star Schema
